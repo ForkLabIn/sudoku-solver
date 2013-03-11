@@ -10,12 +10,6 @@ Usage
 ```
 java -cp sudokusolver.jar com.richardarcega.sudoku.client.AppRunner
 ```
-NOTE: A pre-built jar is available in the target directory.
-
-#### To run within Eclipse:
-```
-File > Import... > Existing Projects into Workspace
-```
 
 
 Building
